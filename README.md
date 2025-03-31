@@ -66,7 +66,7 @@ A demo application showcasing a modern, pixel-art inspired task management inter
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/MISTERKID/pixel-task-manager.git
 cd pixel-task-manager
 ```
 
